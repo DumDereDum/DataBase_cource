@@ -3,11 +3,15 @@
 
 Run in console (**!NB**: run from current folder)
 
+Update docker compose to version v2: https://docs.docker.com/compose/install/linux/
+
 ```BASH
 docker compose -f docker-compose.yaml up
 ```
 
 Open http://localhost:15432/ and login
+* login: **admin@pgadmin.com**
+* password: **password**
 
 ![](.doc/pg_admin_log.png)
 
