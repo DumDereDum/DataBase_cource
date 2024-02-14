@@ -1,5 +1,7 @@
 # Joins
 
+![alt text](.imgs/Lesson_3/joins_examples.jpeg)
+
 ## Данные
 
 ### users
